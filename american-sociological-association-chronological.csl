@@ -206,7 +206,7 @@
             <text macro="title" prefix=" " suffix="."/>
           </group>
           <group prefix=" " delimiter=", ">
-            <text variable="container-title" form="short" font-style="italic" text-case="title"/>
+            <text variable="container-title" font-style="italic" text-case="title"/>
             <text macro="day-month"/>
             <text variable="edition"/>
             <text variable="page"/>
@@ -268,7 +268,7 @@
             <text macro="editor" prefix=" "/>
           </group>
           <group prefix=" " suffix="." delimiter=" ">
-                <text variable="container-title" form="short" font-style="italic" text-case="title"/>
+                <text variable="container-title" font-style="italic" text-case="title"/>
             <group delimiter=":">
               <group>
                 <text variable="volume"/>
